@@ -74,7 +74,7 @@ def install_java_deps():
             "com.fasterxml.jackson.core:jackson-core:2.14.1",
             "com.fasterxml.jackson.core:jackson-databind:2.14.1",
             "com.github.ben-manes.caffeine:caffeine:3.1.2",
-            "com.github.pathikrit:better-files_{}:3.9.1".format(scala_major_version),
+            "com.github.pathikrit:better-files_{}:3.9.2".format(scala_major_version),
             "com.github.pureconfig:pureconfig-core_{}:0.14.0".format(scala_major_version),
             "com.github.pureconfig:pureconfig-generic_{}:0.14.0".format(scala_major_version),
             "com.github.pureconfig:pureconfig_{}:0.14.0".format(scala_major_version),
