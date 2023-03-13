@@ -211,7 +211,7 @@ def install_java_deps():
             "org.tpolecat:doobie-hikari_{}:0.13.4".format(scala_major_version),
             "org.tpolecat:doobie-postgres_{}:0.13.4".format(scala_major_version),
             "org.typelevel:cats-core_{}:2.8.0".format(scala_major_version),
-            "org.typelevel:cats-free_{}:2.8.0".format(scala_major_version),
+            "org.typelevel:cats-free_{}:2.9.0".format(scala_major_version),
             "org.typelevel:cats-kernel_{}:2.8.0".format(scala_major_version),
             "org.typelevel:cats-laws_{}:2.8.0".format(scala_major_version),
             "org.typelevel:kind-projector_{}:0.13.2".format(scala_version),
