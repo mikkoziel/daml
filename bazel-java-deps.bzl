@@ -163,7 +163,7 @@ def install_java_deps():
             "io.prometheus:simpleclient_servlet:{}".format(prometheus_version),
             "io.reactivex.rxjava2:rxjava:2.2.21",
             "io.spray:spray-json_{}:1.3.6".format(scala_major_version),
-            "javax.annotation:javax.annotation-api:1.2",
+            "javax.annotation:javax.annotation-api:1.3.2",
             "javax.ws.rs:javax.ws.rs-api:2.1",
             "net.logstash.logback:logstash-logback-encoder:6.6",
             "org.apache.commons:commons-lang3:3.12.0",
