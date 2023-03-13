@@ -13,5 +13,3 @@ jobs:
         with:
           fetch-depth: 0
       - uses: VirtusLab/bazel-steward@latest
-        with:
-          github-personal-token: ${{ secrets.PAT_GITHUB_TOKEN }}
