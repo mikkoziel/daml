@@ -81,7 +81,7 @@ def install_java_deps():
             "com.github.scopt:scopt_{}:4.1.0".format(scala_major_version),
             "com.github.tototoshi:scala-csv_{}:1.3.10".format(scala_major_version),
             "com.google.code.findbugs:jsr305:3.0.2",
-            "com.google.code.gson:gson:2.10",
+            "com.google.code.gson:gson:2.10.1",
             "com.google.guava:guava:{}".format(guava_version),
             "com.google.protobuf:protobuf-java:{}".format(protobuf_version),
             "com.h2database:h2:2.1.210",
