@@ -61,7 +61,7 @@ opentelemetry_version = "1.12.0"
 prometheus_version = "0.14.1"
 
 # group libraries controlled by the same org
-circe_version = "0.14.2"
+circe_version = "0.14.5"
 
 def install_java_deps():
     maven_install(
