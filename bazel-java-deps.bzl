@@ -50,7 +50,7 @@ netty_version = "4.1.72.Final"
 grpc_version = "1.44.0"
 protobuf_version = "3.19.6"
 akka_version = "2.6.18"
-akka_http_version = "10.2.8"
+akka_http_version = "10.5.0"
 gatling_version = "3.5.1"
 guava_version = "31.1-jre"
 
