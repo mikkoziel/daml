@@ -76,7 +76,7 @@ def install_java_deps():
             "com.github.ben-manes.caffeine:caffeine:3.1.2",
             "com.github.pathikrit:better-files_{}:3.9.1".format(scala_major_version),
             "com.github.pureconfig:pureconfig-core_{}:0.14.0".format(scala_major_version),
-            "com.github.pureconfig:pureconfig-generic_{}:0.14.0".format(scala_major_version),
+            "com.github.pureconfig:pureconfig-generic_{}:0.17.2".format(scala_major_version),
             "com.github.pureconfig:pureconfig_{}:0.14.0".format(scala_major_version),
             "com.github.scopt:scopt_{}:4.1.0".format(scala_major_version),
             "com.github.tototoshi:scala-csv_{}:1.3.10".format(scala_major_version),
