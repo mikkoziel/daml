@@ -58,7 +58,7 @@ guava_version = "31.1-jre"
 # cannot update to 4.2.x because of https://github.com/dropwizard/metrics/issues/2920
 dropwizard_version = "4.1.33"
 opentelemetry_version = "1.12.0"
-prometheus_version = "0.14.1"
+prometheus_version = "0.16.0"
 
 # group libraries controlled by the same org
 circe_version = "0.14.2"
