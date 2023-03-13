@@ -175,7 +175,7 @@ def install_java_deps():
             "org.codehaus.janino:janino:3.1.4",
             "org.flywaydb:flyway-core:8.4.1",
             "org.freemarker:freemarker-gae:2.3.32",
-            "org.jline:jline-reader:3.22.0",
+            "org.jline:jline-reader:3.23.0",
             "org.jline:jline:3.22.0",
             "org.junit.jupiter:junit-jupiter-api:5.9.2",
             "org.junit.jupiter:junit-jupiter-engine:5.9.2",
