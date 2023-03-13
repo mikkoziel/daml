@@ -188,7 +188,7 @@ def install_java_deps():
             "org.playframework.anorm:anorm-akka_{}:2.7.0".format(scala_major_version),
             "org.playframework.anorm:anorm_{}:2.7.0".format(scala_major_version),
             "org.postgresql:postgresql:42.3.8",
-            "org.reactivestreams:reactive-streams-tck:1.0.2",
+            "org.reactivestreams:reactive-streams-tck:1.0.4",
             "org.reactivestreams:reactive-streams:1.0.2",
             "org.reflections:reflections:0.9.12",
             "org.sangria-graphql:sangria-spray-json_{}:1.0.2".format(scala_major_version),
