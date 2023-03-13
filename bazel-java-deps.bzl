@@ -183,7 +183,7 @@ def install_java_deps():
             "org.junit.platform:junit-platform-runner:1.9.2",
             "org.mockito:mockito-core:3.6.28",
             "org.mockito:mockito-inline:3.6.28",
-            "org.mockito:mockito-scala_{}:1.16.3".format(scala_major_version),
+            "org.mockito:mockito-scala_{}:1.17.12".format(scala_major_version),
             "org.pcollections:pcollections:4.0.1",
             "org.playframework.anorm:anorm-akka_{}:2.7.0".format(scala_major_version),
             "org.playframework.anorm:anorm_{}:2.7.0".format(scala_major_version),
