@@ -181,7 +181,7 @@ def install_java_deps():
             "org.junit.jupiter:junit-jupiter-engine:5.9.2",
             "org.junit.platform:junit-platform-engine:1.9.2",
             "org.junit.platform:junit-platform-runner:1.9.2",
-            "org.mockito:mockito-core:3.6.28",
+            "org.mockito:mockito-core:3.12.4",
             "org.mockito:mockito-inline:3.6.28",
             "org.mockito:mockito-scala_{}:1.16.3".format(scala_major_version),
             "org.pcollections:pcollections:4.0.1",
