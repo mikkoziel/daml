@@ -112,7 +112,7 @@ def install_java_deps():
             "com.typesafe.akka:akka-stream_{}:{}".format(scala_major_version, akka_version),
             "com.typesafe.akka:akka-testkit_{}:{}".format(scala_major_version, akka_version),
             "com.typesafe.scala-logging:scala-logging_{}:3.9.5".format(scala_major_version),
-            "com.zaxxer:HikariCP:3.2.0",
+            "com.zaxxer:HikariCP:3.4.5",
             "commons-io:commons-io:2.11.0",
             "eu.rekawek.toxiproxy:toxiproxy-java:2.1.7",
             "io.circe:circe-core_{}:{}".format(scala_major_version, circe_version),
