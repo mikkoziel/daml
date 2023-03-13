@@ -98,7 +98,7 @@ def install_java_deps():
             "com.thesamet.scalapb:lenses_{}:{}".format(scala_major_version, scalapb_version),
             "com.thesamet.scalapb:protoc-bridge_{}:{}".format(scala_major_version, scalapb_protoc_version),
             "com.thesamet.scalapb:protoc-gen_{}:{}".format(scala_major_version, scalapb_protoc_version),
-            "com.thesamet.scalapb:scalapb-json4s_{}:0.11.1".format(scala_major_version, scalapb_version),
+            "com.thesamet.scalapb:scalapb-json4s_{}:0.12.1".format(scala_major_version, scalapb_version),
             "com.thesamet.scalapb:scalapb-runtime-grpc_{}:{}".format(scala_major_version, scalapb_version),
             "com.thesamet.scalapb:scalapb-runtime_{}:{}".format(scala_major_version, scalapb_version),
             "com.typesafe.akka:akka-actor-testkit-typed_{}:{}".format(scala_major_version, akka_version),
