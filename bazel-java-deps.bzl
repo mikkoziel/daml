@@ -173,7 +173,7 @@ def install_java_deps():
             "org.bouncycastle:bcprov-jdk15on:1.70",
             "org.checkerframework:checker:3.28.0",
             "org.codehaus.janino:janino:3.1.4",
-            "org.flywaydb:flyway-core:8.4.1",
+            "org.flywaydb:flyway-core:8.5.13",
             "org.freemarker:freemarker-gae:2.3.32",
             "org.jline:jline-reader:3.22.0",
             "org.jline:jline:3.22.0",
