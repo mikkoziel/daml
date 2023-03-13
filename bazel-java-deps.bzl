@@ -204,7 +204,7 @@ def install_java_deps():
             "org.scalatestplus:testng-6-7_{}:3.2.9.0".format(scala_major_version),
             "org.scalaz:scalaz-core_{}:7.2.33".format(scala_major_version),
             "org.scalaz:scalaz-scalacheck-binding_{}:7.2.33-scalacheck-1.15".format(scala_major_version),
-            "org.seleniumhq.selenium:selenium-java:3.12.0",
+            "org.seleniumhq.selenium:selenium-java:3.141.59",
             "org.slf4j:slf4j-api:2.0.6",
             "org.slf4j:slf4j-simple:2.0.6",
             "org.tpolecat:doobie-core_{}:0.13.4".format(scala_major_version),
