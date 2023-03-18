@@ -206,7 +206,7 @@ def install_java_deps():
             "org.scalaz:scalaz-scalacheck-binding_{}:7.2.33-scalacheck-1.15".format(scala_major_version),
             "org.seleniumhq.selenium:selenium-java:3.12.0",
             "org.slf4j:slf4j-api:2.0.6",
-            "org.slf4j:slf4j-simple:2.0.6",
+            "org.slf4j:slf4j-simple:2.0.7",
             "org.tpolecat:doobie-core_{}:0.13.4".format(scala_major_version),
             "org.tpolecat:doobie-hikari_{}:0.13.4".format(scala_major_version),
             "org.tpolecat:doobie-postgres_{}:0.13.4".format(scala_major_version),
