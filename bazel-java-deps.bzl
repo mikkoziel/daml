@@ -165,7 +165,7 @@ def install_java_deps():
             "io.spray:spray-json_{}:1.3.6".format(scala_major_version),
             "javax.annotation:javax.annotation-api:1.2",
             "javax.ws.rs:javax.ws.rs-api:2.1",
-            "net.logstash.logback:logstash-logback-encoder:6.6",
+            "net.logstash.logback:logstash-logback-encoder:7.3",
             "org.apache.commons:commons-lang3:3.12.0",
             "org.apache.commons:commons-text:1.10.0",
             "org.awaitility:awaitility:4.2.0",
