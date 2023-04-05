@@ -51,7 +51,7 @@ grpc_version = "1.44.0"
 protobuf_version = "3.19.6"
 akka_version = "2.6.18"
 akka_http_version = "10.2.8"
-gatling_version = "3.5.1"
+gatling_version = "3.9.3"
 guava_version = "31.1-jre"
 
 # observability libs
