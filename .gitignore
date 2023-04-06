@@ -18,6 +18,7 @@ target
 # Bazel
 .bazel-cache
 /bazel-*
+!bazel-steward.yaml
 !/bazel-haskell-deps.bzl
 !/bazel-java-deps.bzl
 /compatibility/bazel-*
