@@ -57,7 +57,7 @@ guava_version = "31.1-jre"
 # observability libs
 # cannot update to 4.2.x because of https://github.com/dropwizard/metrics/issues/2920
 dropwizard_version = "4.1.33"
-opentelemetry_version = "1.12.0"
+opentelemetry_version = "1.24.0"
 prometheus_version = "0.14.1"
 
 # group libraries controlled by the same org
